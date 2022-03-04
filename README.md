@@ -24,7 +24,7 @@ src="https://github.com/Jenny-2021/imageshost/blob/850081ef0765927d54cd6c76150f9
  
   <a href = "https://www.instagram.com/jennifer.pereira1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jennifer-pereira-66b578223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <img align="left" alt="Jenny-pic" height="200" style="border-radius:50px;" src="https://i.picasion.com/pic92/0808724c72065ce00c0bdf95c93cf22e.gif">
+   <img align="left" alt="Jenny-pic" height="200" style="border-radius:50px;" src="https://i.picasion.com/pic92/8bb9d04bf4402a9e1ca79a66585c4027.gif">
 
   
 ![snake gif](https://github.com/Jenny-2021/Jenny-2021/blob/output/github-contribution-grid-snake.svg)
